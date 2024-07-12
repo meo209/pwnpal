@@ -2,13 +2,14 @@
 Pwn WiFi networks and BLE devices! 
 
 ## Note
-This was only tested on the RaspberryPI Zero WH and the OrangePI Zero 2W.
+This was only tested on the OrangePI Zero 2W.
 
 # Requirements
-Linux (RaspberryPI OS, OrangePI OS, ...) [Not Kali]
+Linux (OrangePI OS, ...)
 2.4 / 5Ghz WiFi capable device
 Git
 Python 3.9
+
 
 
 # Installation
